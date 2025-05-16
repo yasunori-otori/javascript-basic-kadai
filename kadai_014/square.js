@@ -1,12 +1,12 @@
 const total = (num) => {
-  return num * 10;
+  return num ** 2;
 }
 
 console.log(total(10));
 
 /*
 const numTotal = (num) => {
-  console.log(num * 10);
+  console.log(num ** 2);
 }
 
 numTotal(10);
